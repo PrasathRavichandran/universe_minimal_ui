@@ -3,6 +3,9 @@
     <h1 align="center">Explore Universe App</h1>
     <p>The Flutter mobile App featuring displaying list of planets and its details in smooth UI.</p>
 </p>
+<p align="center">
+  <img src="https://github.com/PrasathRavichandran/universe_minimal_ui/blob/master/assets/demo.gif" width="100%" height="auto"/>
+</p>
 
 ## Platform
 This application is build under [Flutter](https://flutter.dev/), [card_swiper](https://pub.dev/packages/card_swiper) and I used [VScode](https://code.visualstudio.com/) as an IDE.
