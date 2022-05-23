@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://github.com/PrasathRavichandran/universe_minimal_ui/blob/master/assets/fluttericon.png" alt="Logo" width=400 height=400>
     <h1 align="center">Explore Universe App</h1>
-    <p>This mobile application is build by Flutter and App features displaying list of planets and its details in smooth UI.</p>
+    <p>The Flutter mobile App featuring displaying list of planets and its details in smooth UI.</p>
 </p>
 
 ## Platform
