@@ -4,7 +4,7 @@
     <p>The Flutter mobile App featuring displaying list of planets and its details in smooth UI.</p>
 </p>
 <p align="center">
-  <img src="https://github.com/PrasathRavichandran/universe_minimal_ui/blob/master/assets/demo.gif" width="100%" height="auto"/>
+  <img src="https://github.com/PrasathRavichandran/universe_minimal_ui/blob/master/assets/demo.gif" width="50%" height="auto"/>
 </p>
 
 ## Platform
