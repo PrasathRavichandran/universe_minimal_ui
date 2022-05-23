@@ -65,7 +65,10 @@ class HomePage extends StatelessWidget {
                             ),
                             Padding(
                               padding: const EdgeInsets.only(left: 20),
-                              child: Image.asset(planetInfo[index].iconImage),
+                              child: Hero(
+                                  tag: planetInfo[index].position,
+                                  child:
+                                      Image.asset(planetInfo[index].iconImage)),
                             )
                           ],
                         ),
