@@ -24,4 +24,4 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/prasathravi) to get the late
 ## License & Copyright
 © Prasath Ravichandran, Software Engineer
 
-Licensed under the [MIT License.](https://github.com/PrasathRavichandran/weather_report_angularjs/blob/master/LICENSE)
+Licensed under the [MIT License.](https://github.com/PrasathRavichandran/universe_minimal_ui/blob/master/LICENSE)
