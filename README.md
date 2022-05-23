@@ -1,14 +1,20 @@
 <p align="center">
-    <img src="https://github.com/PrasathRavichandran/universe_minimal_ui/blob/master/assets/fluttericon.png" alt="Logo" width=400 height=400>
+    <img src="https://github.com/PrasathRavichandran/universe_minimal_ui/blob/master/assets/fluttericon.png" alt="Logo" width=200 height=200/>
     <h1 align="center">Explore Universe App</h1>
-    <p>The Flutter mobile App featuring displaying list of planets and its details in smooth UI.</p>
+    <p align="center">The Flutter mobile App featuring displaying list of planets and its details in smooth UI.</p>
 </p>
 <p align="center">
-  <img src="https://github.com/PrasathRavichandran/universe_minimal_ui/blob/master/assets/demo.gif" width="50%" height="auto"/>
+  <img src="https://github.com/PrasathRavichandran/universe_minimal_ui/blob/master/assets/demo.gif" width=300 height="auto"/>
 </p>
 
 ## Platform
 This application is build under [Flutter](https://flutter.dev/), [card_swiper](https://pub.dev/packages/card_swiper) and I used [VScode](https://code.visualstudio.com/) as an IDE.
+
+## Design Courtesy
+[Explore Universe App](https://dribbble.com/shots/6600859-Explore-Universe-App-UI)
+<p align="left">
+    <img src="https://github.com/PrasathRavichandran/universe_minimal_ui/blob/master/assets/universe.jpg" alt="design" width=600/>    
+</p>
 
 ## Development server
 - Fork/Clone the project
