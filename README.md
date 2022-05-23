@@ -1,16 +1,26 @@
-# universe_minimal_ui
+<p align="center">
+    <h1 align="center">Explore Universe App</h1>
+    <p>This mobile application is build by Flutter and App features displaying list of planets and its details in smooth UI.</p>
+</p>
 
-A new Flutter project.
+## Platform
+This application is build under [Flutter](https://flutter.dev/), [card_swiper](https://pub.dev/packages/card_swiper) and I used [VScode](https://code.visualstudio.com/) as an IDE.
 
-## Getting Started
+## Development server
+- Fork/Clone the project
+- Run `flutter run` or use `Run and Debug` menu from Visual studio code for extra feature.
+- P.S: If you are facing `sounds null safety` issue while running the project. Refer this [stackoverflow](https://stackoverflow.com/questions/64917744/cannot-run-with-sound-null-safety-because-dependencies-dont-support-null-safety) solution.
 
-This project is a starting point for a Flutter application.
+## More Updates
+Follow me on [LinkedIn](https://www.linkedin.com/in/prasathravi) to get the latest update about features, code and more. Consider star the repo if you like it.
+## More references
+1) [Dart tour](https://dart.dev/guides/language/language-tour)
+2) [Flutter Card Swiper](https://pub.dev/packages/card_swiper)
+3) [Flutter List View](https://api.flutter.dev/flutter/widgets/ListView-class.html)
+4) [Flutter Stack](https://api.flutter.dev/flutter/widgets/Stack-class.html)
+5) [Error handling while running the project](https://stackoverflow.com/questions/64917744/cannot-run-with-sound-null-safety-because-dependencies-dont-support-null-safety)
 
-A few resources to get you started if this is your first Flutter project:
+## License & Copyright
+© Prasath Ravichandran, Software Engineer
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Licensed under the [MIT License.](https://github.com/PrasathRavichandran/weather_report_angularjs/blob/master/LICENSE)
